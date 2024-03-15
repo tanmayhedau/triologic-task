@@ -9,10 +9,10 @@ The Node app contains REST API which is created with the help of Sequelize ORM a
 
 
 ## Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/tanmayhedau/triologic-task.git
 
 ## Navigate to the project directory
-cd your-project
+cd triologic-task
 
 ## Install dependencies
 npm install
